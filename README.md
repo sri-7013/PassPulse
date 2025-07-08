@@ -22,7 +22,7 @@ Run PassPulse as a standalone Windows app:
 
 | UI Screenshot | Demo GIF |
 |---------------|----------|
-| ![Main UI](./Pass_Pulse.png) | ![Demo](./PassPulse_Demo.gif) |
+| ![Main UI](./assets/Pass_Pulse.png) | ![Demo](./assets/PassPulse_Demo.gif) |
 
 ---
 
@@ -65,10 +65,11 @@ python originalpasschecker.py
 
 ```
 PassPulse/
+├── assets/
+│   ├── Pass_Pulse.png
+│   └── PassPulse_Demo.gif
 ├── originalpasschecker.py
 ├── pass_icon.ico
-├── PassPulse_Demo.gif
-├── Pass_Pulse.png
 ├── README.md
 ```
 
