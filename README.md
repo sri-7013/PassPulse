@@ -22,7 +22,7 @@ Run PassPulse as a standalone Windows app:
 
 | UI Screenshot | Demo GIF |
 |---------------|----------|
-| ![Main UI](./assets/Pass_Pulse.png) | ![Demo](./assets/PassPulse_Demo.gif) |
+| ![Main UI](https://github.com/sri-7013/PassPulse/blob/main/PassPulse/assests/Pass_Pulse.png) | ![Demo](https://github.com/sri-7013/PassPulse/blob/main/PassPulse/assests/PassPulse_Demo.gif) |
 
 ---
 
